@@ -19,7 +19,7 @@ This React application organizes tasks into draggable columns, supports quick ed
 
 </div>
 
-> **Source and licensing note:** This workspace was populated from [swarina/YouShd-Todo](https://github.com/swarina/YouShd-Todo) at the user's request. The upstream repository has no `LICENSE` file. The code and upstream screenshots are therefore not represented as licensed for redistribution; obtain permission or a suitable license before publishing this checkout or reusing those screenshots.
+> **Source and attribution:** This workspace was populated from [swarina/YouShd-Todo](https://github.com/swarina/YouShd-Todo). The upstream repository has no `LICENSE` file; permission to republish the source was confirmed by the requester. The screenshot gallery below embeds the original images hosted by the upstream project and credits that repository.
 
 ## On this page
 
@@ -85,7 +85,17 @@ The visuals below are original 3D-rendered illustrations made for this README. T
 
 ### Application screenshots
 
-No screenshots are copied into this repository. The upstream README contains screenshots of its application, but the upstream repository has no license specifying reuse rights. See the [upstream README](https://github.com/swarina/YouShd-Todo#screenshots) for the original images.
+The following original screenshots are hosted by the upstream project and shown here with attribution. They depict its login screen, task board, and task editor.
+
+| Login screen | Project board |
+|---|---|
+| ![Original YouShd-Todo login screen](https://user-images.githubusercontent.com/56193323/181119763-8c3bf4b2-a8b5-486c-9fbf-28b138969a9e.png) | ![Original YouShd-Todo task board](https://user-images.githubusercontent.com/56193323/181119782-0c20b4f6-1fc6-4777-a15d-288b9daab671.png) |
+
+| Task editor |
+|---|
+| ![Original YouShd-Todo task editor](https://user-images.githubusercontent.com/56193323/181119794-c57d5bf3-4300-4a0f-baa7-439cbe9b23e2.png) |
+
+Screenshots are from [swarina/YouShd-Todo](https://github.com/swarina/YouShd-Todo#screenshots); they illustrate the upstream application and are not newly captured images of this checkout.
 
 ## Architecture
 
@@ -226,7 +236,7 @@ The script renders static PNGs and a short GIF from custom 3D geometry. The anim
 
 ## Contributing and licensing
 
-Before proposing or publishing changes to the imported application source, obtain permission from the upstream copyright holder or confirm an appropriate license. This repository does not add or imply a license for the upstream code. README illustrations in `assets/readme/` are original project documentation assets.
+The upstream repository does not specify a license; permission to republish its source was confirmed by the requester. README illustrations in `assets/readme/` are original project documentation assets.
 
 ## Credits
 
