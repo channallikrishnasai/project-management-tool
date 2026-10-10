@@ -1,0 +1,20 @@
+.sidebar {
+    padding: 20px 40px;
+}
+
+.sidebar-contents {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 45rem;
+    color: #9A9A9A;
+    font-size: 17px;
+}
+
+.sidebar-contents p {
+    padding: 6px;
+}
+
+.sidebar-contents .sidebar-icons {
+    margin-right: 16px;
+}

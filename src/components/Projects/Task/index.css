@@ -1,0 +1,14 @@
+.task-card {
+    padding: 25px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 28px rgba(72, 174, 174, 0.07);
+    border-radius: 7px;
+    margin: 20px 0;
+    color: #6B6B6B;
+    font-size: 16px;
+}
+
+.task-card > h4 {
+    color: #161616;
+    margin: 0 0 10px 0;
+}

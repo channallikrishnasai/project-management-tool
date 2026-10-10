@@ -1,0 +1,45 @@
+.header-container {
+    height: 50px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-search {
+    display: flex;
+    align-items: center;
+}
+
+.header-search > input {
+    height: 30px;
+    padding: 4px;
+    border: none;
+    font-size: 18px;
+    margin-left: 6px;
+}
+
+.header-search > input:focus {
+    outline: none;
+}
+
+.header-search > input::placeholder {
+    font-size: 18px;
+}
+
+.header-search > span {
+    font-size: 22px;
+    color: #9A9A9A;
+}
+
+.header-info {
+    display: flex;
+    align-items: center;
+}
+
+.header-info > img {
+    height: 40px;
+    margin-left: 20px;
+}

@@ -1,0 +1,54 @@
+.edit-task-container {
+    height: 100vh;
+    width: 30vw;
+    background-color: #ffffff;
+    box-shadow: -4px 6px 17px rgba(216, 216, 216, 0.59);
+    right: 0;
+    position: absolute;
+    padding: 20px 40px;
+}
+
+.edit-task-container > span {
+    display: block;
+    margin: 30px 0;
+}
+
+.edit-task-container > span > input {
+    border: 1px solid #EEEEEE;
+    border-radius: 5px;
+    height: 40px;
+    width: 100%;
+    padding: 8px;
+}
+
+.edit-task-container > span > .edit-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.edit-task-container > span > .edit-content {
+    font-size: 14px;
+    color: #2E2E2E;
+}
+
+.edit-task-container > span > p {
+    font-size: 16px;
+    color: #6B6B6B;
+
+}
+
+.edit-task-container > hr {
+    width: 50%;
+    border: 3px solid #329C89;
+}
+
+.edit-task-container > button {
+    background: #ECF3F3;
+    border: 1px solid #ECF3F3;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(72, 174, 174, 0.1);
+    color: #329C89;
+    font-weight: 600;
+    height: 40px;
+    width: 70px;
+}

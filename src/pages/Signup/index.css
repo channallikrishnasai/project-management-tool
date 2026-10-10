@@ -1,0 +1,98 @@
+.signup-container {
+    display: flex;
+}
+
+.left-section {
+    flex: 1;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-card {
+    border: 2px solid rgba(26, 59, 88, 0.24);
+    border-radius: 65px;
+    padding: 50px;
+}
+
+.switch {
+    display: flex;
+    color: #1A3B58;
+}
+
+.switch-item {
+    text-decoration: none;
+    margin: 0 6px;
+    color: inherit;
+}
+
+.switch-item > #login {
+    color: rgba(26, 59, 88, 0.33);
+}
+
+hr {
+    border: 2px solid rgba(64, 145, 223, 0.12);
+    width: 75%;
+
+}
+
+.signup-form {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 60px 20px 60px;
+}
+
+.signup-form > input {
+    border: 1px solid #CBDBEA;
+    border-radius: 8px;
+    height: 50px;
+    width: 20rem;
+    margin-top: 30px;
+    padding: 0 16px;
+}
+
+.signup-form > input:focus {
+    outline: none;
+}
+
+.signup-form > input::placeholder {
+    color: #CBDBEA;
+    font-size: 16px;
+}
+
+.signup-form > button {
+    background: #329C89;
+    border-radius: 8px;
+    border: 1px solid #329C89;
+    height: 45px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.remember-me {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.signup-form .remember-me > input[type="checkbox"] {
+    accent-color: #329C89;
+}
+
+.signup-form .remember-me > span {
+    margin-left: 3px;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 15px;
+    color: rgba(26, 59, 88, 0.61);
+}

@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+}
+
+.sidebar-container {
+    width: 20%;
+    height: 100vh;
+    border-right: 2px solid #F0F0F0;
+}
+
+.projects-container {
+    padding: 40px 60px;
+}
