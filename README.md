@@ -19,8 +19,6 @@ This React application organizes tasks into draggable columns, supports quick ed
 
 </div>
 
-> **Source and attribution:** This workspace was populated from [swarina/YouShd-Todo](https://github.com/swarina/YouShd-Todo). The upstream repository has no `LICENSE` file; permission to republish the source was confirmed by the requester. The screenshot gallery below embeds the original images hosted by the upstream project and credits that repository.
-
 ## On this page
 
 - [Overview](#overview)
